@@ -20,7 +20,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'AD_NAME'	=> 'Nome',
-	'AD_VIEWS'	=> 'Vistas',
+	'AD_VIEWS'	=> 'Visualizações',
 	'AD_CLICKS'	=> 'Cliques',
 	'NO_ADS'	=> '<strong>Nenhum anúncio para exibir. Os usuários que possuem anúncios exibidos neste fórum podem visualizar suas estatísticas aqui.</strong>',
 ));
